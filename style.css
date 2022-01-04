@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    text-align: justify;
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+}
+.parent{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.right-side img{
+    width: 400px;
+}
+.my-btn{
+    padding: 20px 60px;
+    background-image: linear-gradient(45deg,green,red,green);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin-top: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.dhaka{
+    width: 320px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 12px grey;
+}
+.photo img{
+    width: 100%;
+}
+.div-btn{
+    padding: 10px 30px;
+    background-image: linear-gradient(45deg,green,red,green);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.division{
+    text-align: center;
+    width: 90%;
+    margin: auto;
+    padding: 50px;
+}
+.second-section {
+    padding: 10px;
+}
+.all-division{
+    display: flex;
+    justify-content: space-around;
+}
+footer p{
+    text-align: center;
+    padding-top: 20px;
+    color: black;
+    font-weight: bold;
+}
